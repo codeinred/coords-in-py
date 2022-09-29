@@ -12,6 +12,9 @@ std::vector<Point> solve(int a, int b, int c, int d) {
     std::vector<Point> vect;
     // Code goes here
 
+    vect.push_back({1, 2});
+    vect.push_back({3, 4});
+    vect.push_back({5, 6});
 
     return vect;
 }
